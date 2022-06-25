@@ -12,12 +12,11 @@
 <hr>
 
           
-- 📓 Currently I'm studying JavaScript
+- 📓 Currently I'm studying Java.
 - 🙂 I like to learn new things and progam for fun!
 - 🍂 Trying to be the best version of myself.
-- 🧭 I'm looking to learn how to program in Java and Python.
 - 📭 I am always available to meet new people.
-- 🪄 Focus! 
+- 🪄 Focus!
 - 🐧 Sup!👋
 
 
