@@ -4,7 +4,7 @@
 
 I'm a Brazilian computer science student who likes to program in python. I like to know more about this language, I'm interested in becoming a developer who can do whatever I want, being able to collaborate with corporations and other people. I'm passionate about linux systems, chocolate cake, and discovering new things.
 
- [![General badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](jose-0A4@protonmail.com)
+ [![General badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)]
  [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meunomeeisac/)
  [![General badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Rasquirrel%20Cold%20Gray)
  ---
