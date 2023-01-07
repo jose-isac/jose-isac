@@ -8,7 +8,7 @@
 </div>
 <hr>
 
-<div>
+
 - 🇧🇷 Brazilian;
 - 🐍 Currently I'm studying Python and I like this language a lot;
 - 😎 I like to learn new things and progam for fun!
@@ -16,7 +16,7 @@
 - 📭 I am always available to meet new people;
 - 🌠 Focus!
 - 🐧 Yo!👋
-</div>
+
 
 ![Snake animation](https://github.com/Rasquirrel/Rasquirrel/blob/output/github-contribution-grid-snake.svg)
 
