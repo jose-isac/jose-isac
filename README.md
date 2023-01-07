@@ -15,7 +15,7 @@ I'm a Brazilian computer science student who likes to program in python. I like 
 </div>
 
 #### 🌐 Stats
-<div style="display: inline_block">
+<div>
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rasquirrel&theme=city_lights&show_icons=true"/>
  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasquirrel&layout=compact&theme=city_lights"/>
 </div>
