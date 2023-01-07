@@ -19,6 +19,3 @@ I'm a Brazilian computer science student who likes to program in python. I like 
  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=rasquirrel&theme=city_lights&show_icons=true"/>
  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasquirrel&layout=compact&theme=city_lights"/>
 </div>
-
-#### 💚 Contribuitions
-![Snake animation](https://github.com/Rasquirrel/Rasquirrel/blob/output/github-contribution-grid-snake.svg)
