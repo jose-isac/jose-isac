@@ -1,36 +1,24 @@
-<h2>Yo!My name is Isac!</h2>
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rasquirrel&theme=city_lights&show_icons=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasquirrel&layout=compact&theme=city_lights"/>
+
+# 🍂 Rasquirrel
+`student // enthusiastic // beginner`
+
+I'm a Brazilian computer science student who likes to program in python. I like to know more about this language, I'm interested in becoming a developer who can do whatever I want, being able to collaborate with corporations and other people. I'm passionate about linux systems, chocolate cake, and discovering new things.
+
+ [![General badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](jose-0A4@protonmail.com)
+ [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meunomeeisac/)
+ [![General badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Rasquirrel%20Cold%20Gray)
+ ---
+ #### 🧰 Programing Languages and Tools
+<div style="display: inline_block">
+ <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp &nbsp
+ <img align="center" height="39px" src="https://user-images.githubusercontent.com/96674887/211145771-9c5cfe19-8111-4fd8-919a-f96adddfc8ab.svg" />
 </div>
-<div style="display: inline_block"><br>
-   <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+#### 🌐 Stats
+<div style="display: inline_block">
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rasquirrel&theme=city_lights&show_icons=true"/> &nbsp
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasquirrel&layout=compact&theme=city_lights"/>
 </div>
-<hr>
 
-
-- 🇧🇷 Brazilian;
-- 🐍 Currently I'm studying Python and I like this language a lot;
-- 😎 I like to learn new things and progam for fun!
-- 🍂 Striving to improve every day;
-- 📭 I am always available to meet new people;
-- 🌠 Focus!
-- 🐧 Yo!👋
-
-
+#### 💚 Contribuitions
 ![Snake animation](https://github.com/Rasquirrel/Rasquirrel/blob/output/github-contribution-grid-snake.svg)
-
-
-
-<!---
-- 👋 Hi, I’m @Rasquirrel, I'm 15, I'm studying JavaScript, I like to learn new things and program for fun!
-- 🍂 My current operating system is Pop OS!
-- 📭 If you want talk with me, send a e-mail to jose-0A4@protonmail.com, I am always available to meet new people.
-- 🐧 Sup!
- --->
-
-
-<!---
-PurplleHaze/PurplleHaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
