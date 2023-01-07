@@ -8,7 +8,7 @@
 </div>
 <hr>
 
-          
+- 🇧🇷 Brazilian;
 - 📓 Currently I'm studying Python and I like this language a lot;
 - 🙂 I like to learn new things and progam for fun!
 - 🍂 Striving to improve every day;
