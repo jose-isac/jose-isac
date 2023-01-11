@@ -2,8 +2,10 @@
 # 🍂 Rasquirrel
 `student // enthusiastic // beginner`
 
+MOAUAMAIAJAMAIAMAJAMAInajanajaMAUSMAIS
 I'm a Brazilian computer science student who likes to program in python. I like to know more about this languag, I'm interested in becoming a developer who can do whatver I want, being able to colaborate with corporations and other people. I'm passionate about linux systems, chocolate cake, and discovering new things.
 Shooting stars doesn't fly fo
+MAIAMAIAAMAIUAJA MUAHAUANAJ
 
  [![General badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jose-0A4@protonmail.com)
  [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meunomeeisac/)
