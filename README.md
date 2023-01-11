@@ -1,6 +1,6 @@
 
 # 🍂 Rasquirrel
-`student // enthusiastic // beginner`
+`student // malaca // beginner`
 
 MOAUAMAIAJAMAIAMAJAMAInajanajaMAUSMAIS
 I'm a Brazilian computer science student who likes to program in python. I like to know more about this languag, I'm interested in becoming a developer who can do whatver I want, being able to colaborate with corporations and other people. I'm passionate about linux systems, chocolate cake, and discovering new things.
@@ -13,7 +13,8 @@ MAIAMAIAAMAIUAJA MUAHAUANAJ
  ---
  #### 🧰 Programing Languages
 <div style="display: inline_block">
- <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp &nbsp
+ <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp &nbsp
+  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp &nbsp
  <!--<img align="center" height="39px" src="https://user-images.githubusercontent.com/96674887/211145771-9c5cfe19-8111-4fd8-919a-f96adddfc8ab.svg" /> -->
 </div>
 
