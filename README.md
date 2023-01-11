@@ -1,9 +1,9 @@
 
 # 🍂 Rasquirrel
-`student // malaca // beginner`
+`student // enthusiastic // beginner`
 
 
-I'm a Brazilian computer science student who likes to program in python. I like to know more about this languag, I'm interested in becoming a developer who can do whatver I want, being able to colaborate with corporations and other people. I'm passionate about linux systems, chocolate cake, and discovering new things.
+I'm a Brazilian computer science student who likes to program in python. I like to know more about this language, I'm interested in becoming a developer who can do whatver I want, being able to collaborate with corporations and other people. I'm passionate about linux systems, chocolate cake, and discovering new things.
 
 "Estrelas cadentes voam sim!"
 
