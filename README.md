@@ -3,7 +3,7 @@
 `student // enthusiastic // beginner`
 
 
-I'm a Brazilian computer science student who likes to program in Python. I like to know more about this language and recently, I started to study Ruby. I'm interested in becoming a developer who can do whatver I want, being able to collaborate with corporations and other people. I'm passionate about linux systems, chocolate cake, and discovering new things.
+I'm a Brazilian computer science student who used to program with Python but now is learning Ruby. I'm interested in becoming a developer who can do whatever I want, being able to collaborate with corporations and other people. I'm passionate about Linux systems, chocolate cake, and discovering new things.
 
 "Estrelas cadentes voam sim!"
 
