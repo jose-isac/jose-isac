@@ -8,7 +8,6 @@ I'm a Brazilian computer science student who used to program with Python but now
 "Estrelas cadentes voam sim!"
 
  [![General badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jose-0A4@protonmail.com)
- [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meunomeeisac/)
  [![General badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Rasquirrel%20Cold%20Gray)
  ---
  #### 🧰 Programing Languages:
