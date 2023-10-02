@@ -4,7 +4,7 @@
 
 🙂 - I'm Isac;  
 ☕ - Currently I'm studying Java;  
-🐦 - I like Linux and open source;
+🐦 - I like Linux and open source;  
 🌹 - Catholic.
 
 🌠 - "Estrelas cadentes voam sim!"
