@@ -1,11 +1,11 @@
 
-# 🌱 jose-isac
+# jose-isac
 `student // enthusiastic // beginner`  
 
-🙂 - I'm Isac;  
+🌌 - I'm Isac;  
 ☕ - Currently I'm studying Java;  
-🐦 - I like Linux and open source;  
-🌹 - Catholic.
+🐧 - I like Linux and open source;  
+🇻🇦 - Catholic.
 
 🌠 - "Estrelas cadentes voam sim!"
  <!--<img align="center" height="39px" src="https://user-images.githubusercontent.com/96674887/211145771-9c5cfe19-8111-4fd8-919a-f96adddfc8ab.svg" />
