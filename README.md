@@ -1,6 +1,6 @@
 
 ![secondtry](https://github.com/jose-isac/jose-isac/assets/96674887/cc604512-0717-4800-8aa8-cb38795b6ef1)
-# ☄️ Joseph Isac
+# 🐿️ Joseph Isac
 **`student // apprentice`**  
 
 Web development student from Brazil who likes computer science related topics, math, self-improvement and learn to do difficult things.  
