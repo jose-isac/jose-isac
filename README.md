@@ -1,4 +1,5 @@
-![firstry](https://github.com/jose-isac/jose-isac/assets/96674887/d2a94e36-d854-4627-a687-0bd6afe0d183)
+
+![secondtry](https://github.com/jose-isac/jose-isac/assets/96674887/cc604512-0717-4800-8aa8-cb38795b6ef1)
 
 # 🍂 Joseph Isac
 **`student // apprentice`**  
