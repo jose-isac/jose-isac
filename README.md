@@ -15,4 +15,6 @@ I aim to become a full stack web developer. I'm currently studying Java, Angular
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><br>    
 
-### 🚀 Projects:
+#
+
+### 🚀 Projects
