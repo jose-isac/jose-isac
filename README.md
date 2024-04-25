@@ -4,7 +4,7 @@
 **`student // apprentice`**  
 
 Web development student from Brazil who likes computer science related topics, math, self-improvement and learn to do difficult things.  
-I aim to become a full stack web developer. I'm currently studying Java, Angular and Tailwind CSS.
+I'll become a full stack web developer. I'm currently studying Java, Angular and Tailwind CSS.
 
 ---
 ### 🧰 Languages and Tools
