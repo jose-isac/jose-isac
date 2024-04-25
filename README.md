@@ -1,6 +1,5 @@
 
 ![secondtry](https://github.com/jose-isac/jose-isac/assets/96674887/cc604512-0717-4800-8aa8-cb38795b6ef1)
-
 # 🍂 Joseph Isac
 **`student // apprentice`**  
 
@@ -16,4 +15,4 @@ I aim to become a full stack web developer. I'm currently studying Java, Angular
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><br>    
 
-### 🚀 Things I've already done:
+### 🚀 Projects:
