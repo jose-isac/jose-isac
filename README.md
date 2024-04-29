@@ -20,3 +20,6 @@ I'll become a full stack web developer. I'm currently studying Java, Angular and
 #
 
 ### 🚀 Projects
+[![routinetracker](https://github.com/jose-isac/jose-isac/assets/96674887/e827a3a8-2688-4604-8402-96d07e7f9f25)](https://github.com/jose-isac/app-routine-tracker)  
+[**Routine Tracker**](https://github.com/jose-isac/app-routine-tracker)
+
