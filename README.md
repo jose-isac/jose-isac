@@ -1,5 +1,6 @@
 
-![secondtry](https://github.com/jose-isac/jose-isac/assets/96674887/cc604512-0717-4800-8aa8-cb38795b6ef1)
+![pexels-brakou-1723637](https://github.com/jose-isac/jose-isac/assets/96674887/e72a6258-8b23-4a24-af3a-02e1304693fd)
+
 # 🐿️ jose-isac
 **`student // apprentice`**  
 
