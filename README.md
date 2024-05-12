@@ -5,9 +5,9 @@
 **`student // apprentice`**  
 
 Web development student from Brazil who likes computer science related topics, math, self-improvement and learn to do difficult things.  
-I'll become a full stack web developer. I'm currently studying Java, Angular and Tailwind CSS.
+I'll become a full stack web developer.
 
----
+<!-----
 ### 🧰 Languages and Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
