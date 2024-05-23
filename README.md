@@ -4,8 +4,7 @@
 # 🐿️ jose-isac
 **`student // apprentice`**  
 
-Web development student from Brazil who likes computer science related topics, math, self-improvement and learn difficult things.  
-I'll become a full stack web developer.
+A guy from Brazil who likes computer science related topics, math, self-improvement and learn difficult things.  
 
 <!-----
 ### 🧰 Languages and Tools
