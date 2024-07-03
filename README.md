@@ -4,7 +4,7 @@
 # 🐿️ jose-isac
 **`student // apprentice`**  
 
-A guy from Brazil who likes computer science related topics, math, self-improvement and learn difficult things.  
+A guy from Brazil who likes subjects related to computer science, math, self-improvement and learning difficult things.  
 
 <!-----
 ### 🧰 Languages and Tools
