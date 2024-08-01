@@ -1,5 +1,5 @@
 
-# ☆ jose-isac
+# jose-isac
 
 A guy from Brazil who likes subjects related to computer science, math, self-improvement and learning difficult things.  
 
